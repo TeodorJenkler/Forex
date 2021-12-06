@@ -7,5 +7,7 @@
   <body>
     <?php
       require("functions.php");
-   </body>
+
+      session_start();
+  </body>
 </html>
